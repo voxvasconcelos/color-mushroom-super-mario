@@ -4,7 +4,7 @@
 	<meta charset="UTF-8"/>
 	<title>Cogumelo do Mario</title>
 	<style>
-body{background-color: brown;}
+body{background-color: white;}
 
 #quadro{
 	color: white;
@@ -41,11 +41,11 @@ body{background-color: brown;}
 #a2, #b2, #c2, #n2, #o2, #p2, #a3, #b3, #o3, #p3,
 #a4, #p4, #a5, #p5, #a13, #p13, #a14, #b14, #o14, #p14,
 #a15, #b15, #o15, #p15, #a16, #b16, #c16, #n16, #o16, #p16{
-	background-color: brown;}
+	background-color: white;}
 	</style>
 </head>
 <body>
-<p>Escolha uma cor e depois clique no botão "mudar cor"</p>
+<p>Escolha uma cor e depois clique em "mudar cor"</p>
 <form method="gerar">
 	<label for="icor">Cor: </label>
 	<input type="color" name="cor" id="icor"/>
